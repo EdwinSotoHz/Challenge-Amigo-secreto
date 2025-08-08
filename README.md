@@ -1,9 +1,6 @@
-# Challenge-Amigo-secreto
-## [alura LATAM] Practicando Lógica de Programación: Challenge Amigo secreto
+# [alura LATAM] Practicando Lógica de Programación: Challenge Amigo secreto
 
-# Amigo Secreto - JavaScript
-
-## Funcionalidades Principales
+### Funcionalidades Principales
 El código JavaScript proporciona tres funciones clave:
 
 1. **`agregarAmigo()`**
@@ -21,6 +18,6 @@ El código JavaScript proporciona tres funciones clave:
    - Renderiza dinámicamente la lista de nombres
    - Limpia y reconstruye la lista en cada actualización
 
-## Validaciones
+### Validaciones
 - Comprueba que el input no esté vacío
 - Verifica que existan amigos para sortear
